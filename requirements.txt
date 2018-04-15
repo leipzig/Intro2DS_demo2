@@ -2,4 +2,3 @@ numpy
 pandas
 bs4
 Pillow
-io
